@@ -4,5 +4,5 @@
 
 ```
 git clone https://github.com/H0gwartsDr0pout/dotfiles
-mv ./dotfiles ./.dotfiles
+mv ./dotfiles ~/.dotfiles
 ```
